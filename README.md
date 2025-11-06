@@ -75,6 +75,6 @@
   </div>
 
   <script src="/socket.io/socket.io.js"></script>
-  <script src="script.js"></script>
+  <script src="script.js">albert("hallo world");</script>
 </body>
 </html>
