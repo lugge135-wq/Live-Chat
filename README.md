@@ -69,7 +69,7 @@
   <div id="chat">
     <ul id="messages"></ul>
     <form id="form">
-      <input id="input" autocomplete="on" placeholder="Schreibe eine Nachricht..." />
+      <input id="input" autocomplete="off" placeholder="Schreibe eine Nachricht..." />
       <button>Senden</button>
     </form>
   </div>
